@@ -1,5 +1,3 @@
-AI-Powered Creative Writing Assistance
-=====================================================================================================
 
 Effective creative writing involves not only engaging content, but also a unique voice and style that reflects the writer's personality and perspective. With the help of AI, writers can now receive personalized recommendations and interventions to enhance their writing creativity and coherence. In this chapter, we'll explore how AI can be used to provide AI-powered creative writing assistance.
 

@@ -1,4 +1,3 @@
-# Introduction
 
 AI for Creative Writing: Techniques and Strategies for More Innovative and Inspiring Writing with Machine Learning is a comprehensive guide that explores the intersection of artificial intelligence and creative writing. With the rise of technology, machine learning techniques are increasingly being used in various industries, including creative writing.
 

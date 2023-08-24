@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Writing Creativity and Coherence with AI
-=============================================================
 
 Effective creative writing involves not only engaging content, but also polished language that reflects the writer's style and voice. With the help of AI, writers can now receive personalized recommendations and interventions to enhance both creativity and coherence in their work. In this chapter, we'll explore how AI can be used to enhance writing creativity and coherence.
 

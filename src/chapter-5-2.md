@@ -1,5 +1,3 @@
-Personalized Writing Recommendations and Interventions using AI
-========================================================================================================================
 
 Engagement and readability are crucial components of effective creative writing. With the help of AI, writers can now receive personalized writing recommendations and interventions to improve engagement and readability in their work. In this chapter, we'll explore how AI can be used to provide personalized writing recommendations and interventions.
 

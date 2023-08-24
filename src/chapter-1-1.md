@@ -1,5 +1,3 @@
-Understanding the Role of AI in Creative Writing
-====================================================================================================
 
 Artificial intelligence (AI) is transforming the landscape of creative writing. With the help of machine learning algorithms, writers can now generate new ideas, refine their writing style, and even automate certain aspects of the writing process. In this chapter, we'll provide an overview of the role of AI in creative writing.
 

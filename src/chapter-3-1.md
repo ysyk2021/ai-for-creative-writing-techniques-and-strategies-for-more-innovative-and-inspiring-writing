@@ -1,5 +1,3 @@
-Using AI for Idea Generation and Inspiration
-====================================================================================================
 
 Generating fresh and innovative ideas is a critical component of successful creative writing. With the help of AI, writers can now leverage machine learning algorithms to generate new ideas and explore unique perspectives that may not have been considered otherwise. In this chapter, we'll explore how AI can be used for idea generation and inspiration.
 

@@ -1,5 +1,3 @@
-Emerging Trends in AI for Creative Writing and Publishing
-====================================================================================================================================
 
 As AI technology continues to evolve, so too does its potential for transforming the landscape of creative writing and publishing. In this chapter, we'll explore some emerging trends in AI for creative writing and publishing.
 

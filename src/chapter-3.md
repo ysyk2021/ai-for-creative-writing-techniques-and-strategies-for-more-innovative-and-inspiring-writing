@@ -1,5 +1,3 @@
-Chapter 3: Implementing AI in Ideation and Inspiration
-======================================================
 
 AI has tremendous potential to enhance the ideation and inspiration process for creative writers. By leveraging machine learning algorithms, writers can generate new ideas, explore unique perspectives, and overcome writer's block. In this chapter, we'll explore how writers can implement AI in their ideation and inspiration process.
 

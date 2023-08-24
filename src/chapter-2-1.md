@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-==============================================================================================================
 
 AI-driven creative writing is a rapidly growing field, with a wide range of tools and technologies available to writers. In this chapter, we'll provide an overview of the available tools and technologies for AI-driven creative writing.
 

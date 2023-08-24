@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-===========================================================================================================
 
 As AI becomes more prevalent in creative writing, it is important to consider the potential ethical and bias implications of these technologies. In this chapter, we'll discuss how writers can mitigate risks and ensure compliance when using AI-driven creative writing tools.
 

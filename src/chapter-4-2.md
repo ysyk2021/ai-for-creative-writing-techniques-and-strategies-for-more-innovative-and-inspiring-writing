@@ -1,5 +1,3 @@
-Automated Language Polishing using AI
-====================================================================================================
 
 Effective creative writing involves not only engaging content, but also polished language that reflects the writer's style and voice. With the help of AI, writers can now streamline the language polishing process, making it faster, more efficient, and more effective. In this chapter, we'll explore how AI can be used to enhance writing creativity and coherence through automated language polishing.
 
