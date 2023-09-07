@@ -10,3 +10,7 @@ Furthermore, we dive into the ethical considerations surrounding machine learnin
 By the end of this book, you'll have a comprehensive understanding of how machine learning can transform the way you approach writing. You'll be equipped with the knowledge and tools needed to use these technologies ethically and responsibly, unlocking new levels of creativity and inspiration in your writing.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
